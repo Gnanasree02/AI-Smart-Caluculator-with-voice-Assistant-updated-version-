@@ -45,7 +45,7 @@ It not only handles standard arithmetic but also uses smart logic to interpret n
 ### 1️⃣ Clone Repository
 
 ```bash id="p8x3vr"
-git clone https://github.com/your-username/ai-calculator.git
+git clone https://github.com/Gnanasree02/ai-calculator.git
 cd ai-calculator
 ```
 
